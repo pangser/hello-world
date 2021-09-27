@@ -6,13 +6,13 @@ credentials:
           id: "f047a4ab-a375-4bad-a0dd-ec4e5bdd5147"
           scope: GLOBAL
       - usernamePassword:
-          description: "gitlab凭证"
+          description: "gitlab凭证2"
           id: "gitlab-login"
           password: "{AQAAABAAAAAg2e84MUeYVb9rGPbBjHT/ngZNRSrScb14vhnm01B61Uv/187jLbPdJG5eYDPCJCHH}"
           scope: GLOBAL
           username: "jenkins"
       - usernamePassword:
-          description: "镜像仓库帐号"
+          description: "镜像仓库帐号1"
           id: "docker-registry-account"
           password: "{AQAAABAAAAAQ+0yzIFrWX1+NjhHA07noJVzZqbSzZPQA5UXCWqNJTUc=}"
           scope: GLOBAL
